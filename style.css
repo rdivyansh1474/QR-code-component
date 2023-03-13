@@ -23,9 +23,10 @@ body{
     border-radius: 10px;
 }
 
-.card h2{
+.card h1{
     color: hsl(218, 44%, 22%);
     margin-bottom: 15px;
+    font-size: 22px
 }
 
 .card p{

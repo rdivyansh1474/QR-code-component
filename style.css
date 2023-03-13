@@ -23,7 +23,7 @@ body{
     border-radius: 10px;
 }
 
-.card h1{
+.card h2{
     color: hsl(218, 44%, 22%);
     margin-bottom: 15px;
 }
